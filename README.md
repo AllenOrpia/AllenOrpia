@@ -2,11 +2,11 @@
 <div>
    <img src="https://komarev.com/ghpvc/?username=AllenOrpia&style=flat-square&color=blue" alt="profile views" align="right"/>
 </div>
+
+# Hi there, I'm Allen Orpia 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-# Hi there, I'm Allen Orpia 👋
 
 I am an aspiring Full Stack Developer based in California. I love building innovative web applications and exploring new technologies. Here you can find some of the projects I've worked on as well as the technologies and languages I am proficient in.
 
