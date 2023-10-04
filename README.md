@@ -38,7 +38,7 @@ I am an aspiring Full Stack Developer based in California. I love building innov
 - **Coding Dojo | Software Development** (November 2022-March 2023)
   - Accelerated Coding Bootcamp that taught me the importance of web fundamentals and design patterns such as MVC (model, views, and controllers).
   - Emphasis on understanding data structures and the right algos for each data structure.
-  - Gave the opportunity to work in teams using GitHub for collaborating and hosting repositories to simulate real-world practices.
+  - Had the opportunity to work in teams using GitHub for collaborating and hosting repositories to simulate real-world practices.
     
 
 ## 🌱 Currently Learning
